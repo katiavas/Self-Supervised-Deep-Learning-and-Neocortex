@@ -20,13 +20,20 @@ this must be subject of further research as the reasons underlying the boost in 
 the more biologically plausible ICM compared to the original ICM remain in debate
 
 # Supporting Technologies
+<pre>
+•  Python as a programming language to implement the ICM.</pre>
+<pre>
 
-•  Python as a programming language to implement the ICM.
 • PyTorch Python’s Machine Learning Framework to implement the ICM, this
 include using convolutional neural networks for encoding features of incoming images
-and neural networks for making predictions.
+and neural networks for making predictions.</pre>
+<pre>
+
 • OpenCV computer vision library to process incoming raw input
-images so that computations are more efficient.
+images so that computations are more efficient.</pre>
+<pre>
+
 • Open-AI Gym open source toolkit containing a range of environments where
 the agent can learn, but also allowing to directly modify the open-AI Gym environment
 by using Gym wrappers.
+</pre>
