@@ -18,3 +18,15 @@ from other mammals. The results of this implementation are in a promising direct
 that the more biologically plausible model does yield even better results than the original ICM. However,
 this must be subject of further research as the reasons underlying the boost in learning performance of
 the more biologically plausible ICM compared to the original ICM remain in debate
+
+# Supporting Technologies
+
+•  Python as a programming language to implement the ICM.
+• PyTorch Python’s Machine Learning Framework to implement the ICM, this
+include using convolutional neural networks for encoding features of incoming images
+and neural networks for making predictions.
+• OpenCV computer vision library to process incoming raw input
+images so that computations are more efficient.
+• Open-AI Gym open source toolkit containing a range of environments where
+the agent can learn, but also allowing to directly modify the open-AI Gym environment
+by using Gym wrappers.
