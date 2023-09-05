@@ -1,4 +1,4 @@
-# Bachelor Thesis : Self-Supervised Deep Learning and Neocortex
+# Bachelor Thesis - Reinforcement Learning : Self-Supervised Deep Learning and Neocortex
 
 # Abstract 
 The exploration exploitation dilemma is one of the most prominent open research problems in Reinforcement Learning (RL). Pathak et al [67] have proposed a solution that introduces balance between those
