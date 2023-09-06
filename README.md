@@ -31,10 +31,11 @@ and neural networks for making predictions.</pre>
 
 • OpenCV computer vision library to process incoming raw input
 images so that computations are more efficient.</pre>
-<pre>
-  Using Google's DeepMInd A3C agent as a baseline </pre>
 
 • Open-AI Gym open source toolkit containing a range of environments where
 the agent can learn, but also allowing to directly modify the open-AI Gym environment
 by using Gym wrappers.
 </pre>
+
+<pre>
+  • Using Google's DeepMind A3C agent as a baseline </pre>
