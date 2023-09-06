@@ -31,7 +31,7 @@ and neural networks for making predictions.</pre>
 
 • OpenCV computer vision library to process incoming raw input
 images so that computations are more efficient.</pre>
-
+<pre>
 • Open-AI Gym open source toolkit containing a range of environments where
 the agent can learn, but also allowing to directly modify the open-AI Gym environment
 by using Gym wrappers.
