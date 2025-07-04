@@ -1,7 +1,7 @@
 # Bachelor Thesis - Reinforcement Learning : Self-Supervised Deep Learning and Neocortex
 
 # Abstract 
-The exploration exploitation dilemma is one of the most prominent open research problems in Reinforcement Learning (RL). Pathak et al [67] have proposed a solution that introduces balance between those
+The exploration exploitation dilemma is one of the most prominent open research problems in Reinforcement Learning (RL). Pathak et al have proposed a solution that introduces balance between those
 two components. The solution involves an agent, that is the RL algorithm , producing its own intrinsic
 rewards, through a bolt-on module, namely Intrinsic Curiosity Module(ICM). Using intrinsic rewards
 the algorithm is guided towards more exploratory behaviour but still not loosing sight of its ultimate
